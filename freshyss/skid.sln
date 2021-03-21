@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdatedCsharpSpoofer", "UpdatedCsharpSpoofer\UpdatedCsharpSpoofer.csproj", "{E4837D1B-0B1E-4260-BAE4-346B4DE2E21F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1307743-78F3-42B4-ADE2-95B02313F712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4837D1B-0B1E-4260-BAE4-346B4DE2E21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4837D1B-0B1E-4260-BAE4-346B4DE2E21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4837D1B-0B1E-4260-BAE4-346B4DE2E21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4837D1B-0B1E-4260-BAE4-346B4DE2E21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EEDC6EE-F604-4B80-B695-452D72BC6AA1}
+	EndGlobalSection
+EndGlobal
