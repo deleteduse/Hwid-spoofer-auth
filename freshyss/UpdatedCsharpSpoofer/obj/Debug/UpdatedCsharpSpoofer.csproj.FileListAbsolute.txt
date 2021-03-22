@@ -12,3 +12,10 @@ C:\Users\ben dover\Desktop\freshyss\UpdatedCsharpSpoofer\bin\Debug\UpdatedCsharp
 C:\Users\ben dover\Desktop\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.exe
 C:\Users\ben dover\Desktop\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.pdb
 C:\Users\ben dover\Desktop\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.csprojAssemblyReference.cache
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\bin\Debug\UpdatedCsharpSpoofer.exe.config
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\bin\Debug\UpdatedCsharpSpoofer.exe
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\bin\Debug\UpdatedCsharpSpoofer.pdb
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.csprojAssemblyReference.cache
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.exe
+C:\Users\ben dover\Documents\GitHub\Hwid-spoofer-auth\freshyss\UpdatedCsharpSpoofer\obj\Debug\UpdatedCsharpSpoofer.pdb
